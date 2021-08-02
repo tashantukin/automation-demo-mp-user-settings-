@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Finished Dose Manufacturer is displayed</description>
+   <name>TC46</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9fe6e50b-ded5-46d5-ae3f-08d7600503e3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Fine Chemical Manufacturer option is displayed</description>
+   <name>TC49</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df1290a4-0fba-43d4-8778-243d4a172006</testCaseGuid>
+</TestCaseEntity>

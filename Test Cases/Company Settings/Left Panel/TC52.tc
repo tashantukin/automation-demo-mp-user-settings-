@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  Contract Manufacturing Organization option is displayed</description>
+   <name>TC52</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abccafc0-d8f2-43fc-a749-bed5921dde2c</testCaseGuid>
+</TestCaseEntity>

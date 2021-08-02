@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if other services text box is displayed</description>
+   <name>TC72</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94c4a068-cfc4-49be-9983-ebd294963182</testCaseGuid>
+</TestCaseEntity>

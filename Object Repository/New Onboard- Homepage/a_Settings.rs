@@ -6,15 +6,19 @@
    <elementGuidId>439b5792-dce8-4d1a-b23b-f0dbad092ce5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>ul.login-nav.dropdown-menu.hidden-xs > li > a</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='videoBannerBG']/div/div/div[2]/div/ul/li[6]/ul/li/a</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/user/marketplace/user-settings' and (text() = 'Settings' or . = 'Settings')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.login-nav.dropdown-menu.hidden-xs > li > a</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

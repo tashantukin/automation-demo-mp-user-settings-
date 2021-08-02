@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>29. Verify if Profle details will be displayed if Profile tab is clicked</description>
+   <name>TC29</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa8e1aa5-0eec-4722-9715-0a4beac3a42e</testCaseGuid>
+</TestCaseEntity>

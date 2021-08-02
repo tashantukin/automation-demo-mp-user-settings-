@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Verify if Manufacturing Capabilities Biologic
+ label is displayed&quot;</description>
+   <name>TC63</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb9ad64a-5700-4e8a-8dfe-dbe10c1b0909</testCaseGuid>
+</TestCaseEntity>

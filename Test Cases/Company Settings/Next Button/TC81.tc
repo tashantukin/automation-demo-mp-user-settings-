@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Next button will display 'regulatory information' from Company Profile</description>
+   <name>TC81</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44b996da-6bae-4ee1-8bf9-d7e00531592a</testCaseGuid>
+</TestCaseEntity>

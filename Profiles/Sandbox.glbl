@@ -76,7 +76,32 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
+      <initValue>'jdelacruz'</initValue>
       <name>buyer_linked_username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'welccome8'</initValue>
+      <name>buyer_pending_req_pww</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'gca123456'</initValue>
+      <name>buyer_linked_pw</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'tashmerchant'</initValue>
+      <name>merchant_no_req_username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'welcome8'</initValue>
+      <name>merchant_no_req_pw</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'user7089'</initValue>
+      <name>merchant_pending_req_username</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

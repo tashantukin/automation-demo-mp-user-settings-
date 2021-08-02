@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>19. Verify if Select Location text label is displayed</description>
+   <name>TC19</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eaa1d99e-76de-4b93-b06a-b0333ca67056</testCaseGuid>
+</TestCaseEntity>

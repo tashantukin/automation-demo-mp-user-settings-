@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>18.Verify if Company name text label is displayed</description>
+   <name>TC18</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b40022b0-d51a-470a-a917-e8cf81eb5bb0</testCaseGuid>
+</TestCaseEntity>

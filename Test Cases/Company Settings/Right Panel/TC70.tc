@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Other Services header is displayed</description>
+   <name>TC70</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88022eb9-7426-4d98-8200-2261e6019bb5</testCaseGuid>
+</TestCaseEntity>

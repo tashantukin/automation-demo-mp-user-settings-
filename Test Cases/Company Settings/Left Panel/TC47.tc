@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Other Subsidiary option is displayed</description>
+   <name>TC47</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d459ca9c-1d39-41c0-a334-7c502374259f</testCaseGuid>
+</TestCaseEntity>

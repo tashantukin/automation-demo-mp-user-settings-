@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Manufacturing Capabilities Small Molecules text box is displayed</description>
+   <name>TC66</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1ae34b4-13be-4604-8cd7-323d703cc209</testCaseGuid>
+</TestCaseEntity>

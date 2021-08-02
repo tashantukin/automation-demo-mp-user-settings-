@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Subsidiary Type label is displayed</description>
+   <name>TC44</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d63f016d-3cc9-4550-a92f-cfb3cb3c9bf2</testCaseGuid>
+</TestCaseEntity>

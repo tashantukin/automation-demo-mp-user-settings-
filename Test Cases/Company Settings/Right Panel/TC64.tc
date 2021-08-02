@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Manufacturing Capabilities Finished Dose label is displayed</description>
+   <name>TC64</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2454a0bf-5dcb-44e6-ae92-d62b77619d41</testCaseGuid>
+</TestCaseEntity>

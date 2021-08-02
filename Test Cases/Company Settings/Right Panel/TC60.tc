@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if 'Contract Manufacturing Organization (CMO/CDMO)?' label is displayed</description>
+   <name>TC60</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d39dcdab-6b0f-4b08-b920-64f1b9647385</testCaseGuid>
+</TestCaseEntity>

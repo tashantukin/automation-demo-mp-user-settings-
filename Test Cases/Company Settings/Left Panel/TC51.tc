@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if CRO option is displayed</description>
+   <name>TC51</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa901464-72e9-46c0-bd3e-9d4991c11875</testCaseGuid>
+</TestCaseEntity>

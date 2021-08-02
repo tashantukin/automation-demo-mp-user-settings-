@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if company alert sub heading text is displayed</description>
+   <name>TC56</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec4dd5c9-72ce-4467-b9e1-d405e6f9c859</testCaseGuid>
+</TestCaseEntity>

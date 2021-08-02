@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if API Manufacturer option is displayed</description>
+   <name>TC45</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe0639dc-c0c7-479f-8c0e-93d5df613e2c</testCaseGuid>
+</TestCaseEntity>

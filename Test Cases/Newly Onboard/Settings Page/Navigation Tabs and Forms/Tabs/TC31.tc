@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>31. Verify if Change Password page will be displayed if Change Password tab is clicked</description>
+   <name>TC31</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d89ca2e-b4a3-4e52-af42-f2c818427e55</testCaseGuid>
+</TestCaseEntity>

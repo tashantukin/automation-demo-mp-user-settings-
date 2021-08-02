@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>27. Verify if Payment tab will be displayed once Next button is clicked</description>
+   <name>TC27 From Address tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6dbbdbd3-da1d-42b3-8dbc-29bd63773cdf</testCaseGuid>
+</TestCaseEntity>

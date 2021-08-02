@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>21. Verify if Select location dropdownn is clickable and has default value based on the chosen company name</description>
+   <name>TC21</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddae4295-368c-4cf3-a932-50d1e6014a0f</testCaseGuid>
+</TestCaseEntity>

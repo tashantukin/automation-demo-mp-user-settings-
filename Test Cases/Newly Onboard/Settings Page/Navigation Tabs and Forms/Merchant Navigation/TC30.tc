@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>30. Verify if Address details will be displayed if Address tab is clicked</description>
+   <name>TC30</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1e8eb28-5c21-4e6f-aa57-ed7eac5a8ada</testCaseGuid>
+</TestCaseEntity>

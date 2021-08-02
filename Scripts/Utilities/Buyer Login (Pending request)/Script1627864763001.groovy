@@ -28,7 +28,7 @@ WebUI.click(findTestObject('User Login/a_Accept Cookies'))
 
 WebUI.setText(findTestObject('User Login/input_Your emailusername_username'), GlobalVariable.buyer_pendingreq_username)
 
-WebUI.setText(findTestObject('User Login/input_Your password_password'), GlobalVariable.buyer_password)
+WebUI.setText(findTestObject('User Login/input_Your password_password'), GlobalVariable.buyer_pending_req_pww)
 
 WebUI.click(findTestObject('User Login/input_Forgot password_login-submit'))
 

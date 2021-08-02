@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>17. Verify if pop up will display once button is clicked</description>
+   <name>TC17</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdf46bd2-d3f6-4370-8eda-316f75cd48fc</testCaseGuid>
+</TestCaseEntity>

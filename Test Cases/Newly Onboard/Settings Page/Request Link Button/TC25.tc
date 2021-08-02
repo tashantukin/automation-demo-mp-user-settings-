@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>25. Verify if X,Cancel button will close the pop up</description>
+   <name>TC25</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2261578-c8d2-48d8-bc12-6fce6dd505c1</testCaseGuid>
+</TestCaseEntity>

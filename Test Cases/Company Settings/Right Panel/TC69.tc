@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Manufacturing Capabilities Others text box is displayed</description>
+   <name>TC69</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30117c59-418b-4c4f-927a-b1e804741ad6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>30. Verify if Notifications tab details is displayed if Notifications tab is clicked</description>
+   <name>TC30</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3d5a247-dd24-4fae-8723-5986beaacac9</testCaseGuid>
+</TestCaseEntity>

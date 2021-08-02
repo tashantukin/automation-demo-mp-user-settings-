@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>24. Verify if (X) button is displayed on upper right corner of the pop up</description>
+   <name>TC24</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acab3ad4-fc0e-425e-9cdc-c40ba375a5a0</testCaseGuid>
+</TestCaseEntity>

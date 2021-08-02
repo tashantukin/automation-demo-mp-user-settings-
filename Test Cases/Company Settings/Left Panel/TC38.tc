@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if 'General' label is displayed</description>
+   <name>TC38</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a12b8f19-408c-417d-8ce2-86c2509fe1ec</testCaseGuid>
+</TestCaseEntity>

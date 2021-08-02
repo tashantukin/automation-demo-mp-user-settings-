@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>10. Verify if 'Work Email' text label is displayed</description>
+   <name>TC10 Merchant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed6bb4a5-924d-49e6-8591-37e0201ee8b6</testCaseGuid>
+</TestCaseEntity>

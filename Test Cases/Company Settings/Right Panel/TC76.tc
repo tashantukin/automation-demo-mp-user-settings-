@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Upload button is displayed</description>
+   <name>TC76</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25b5885c-e42a-47c4-8605-1288412e43d5</testCaseGuid>
+</TestCaseEntity>

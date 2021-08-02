@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Corporate Group Name label is displayed</description>
+   <name>TC42</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a31c54de-765f-4669-aab5-4c10f15caca6</testCaseGuid>
+</TestCaseEntity>

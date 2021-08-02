@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if 'Additional Supplier Information' sub header is displayed</description>
+   <name>TC74</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>280c44f4-5507-40f7-b167-f9d03b66d726</testCaseGuid>
+</TestCaseEntity>

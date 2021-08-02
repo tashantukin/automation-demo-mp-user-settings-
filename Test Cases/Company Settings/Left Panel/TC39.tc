@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Verified badge is displayed</description>
+   <name>TC39</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9ff8abe-7812-4393-a9a6-e732512138c8</testCaseGuid>
+</TestCaseEntity>

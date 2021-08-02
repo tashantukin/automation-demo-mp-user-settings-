@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>33. Verify if sub account list  page will be displayed if Team tab is clicked</description>
+   <name>TC33</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64ebcb8b-8f09-43ac-a457-12ac6fc6d7cd</testCaseGuid>
+</TestCaseEntity>

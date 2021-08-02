@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Manufacturing Capabilities Others label is displayed</description>
+   <name>TC65</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fd88885-a950-4319-8001-ab5949752c11</testCaseGuid>
+</TestCaseEntity>

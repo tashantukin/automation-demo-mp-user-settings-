@@ -16,5 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.mouseOver(findTestObject('New Onboard- Homepage/i_No name specified_icon icon-down'))
+
 WebUI.click(findTestObject('New Onboard- Homepage/a_Settings'))
 

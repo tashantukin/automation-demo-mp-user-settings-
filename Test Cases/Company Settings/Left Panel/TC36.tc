@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>36. Verify Page title header
+5. Header text should display 'Company Settings'</description>
+   <name>TC36</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2389d348-290d-4eb4-a4b9-45359331eaeb</testCaseGuid>
+</TestCaseEntity>

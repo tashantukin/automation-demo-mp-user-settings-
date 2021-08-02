@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Regulatory Information tab will display if Regulatory Information tab is clicked</description>
+   <name>TC78</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8772292-6aff-40a6-9adf-6055f9725156</testCaseGuid>
+</TestCaseEntity>

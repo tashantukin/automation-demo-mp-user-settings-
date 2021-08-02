@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>20. Verify if Company name dropdown is clickable and has default value (if company users exists)</description>
+   <name>TC20</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f19fce5-86b7-4476-a7f7-8b1e3ef1f3ac</testCaseGuid>
+</TestCaseEntity>
