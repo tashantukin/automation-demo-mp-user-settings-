@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>15.  Verify if 'Contact No.' text field is displayed</description>
+   <name>TC15</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67fabb57-7f3c-46f9-ace1-7c7b055b794e</testCaseGuid>
+</TestCaseEntity>

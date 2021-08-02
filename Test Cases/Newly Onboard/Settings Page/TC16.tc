@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>16. Verify if Next button is displayed and clickable</description>
+   <name>TC16</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e23522d-9eb0-4889-891f-04b76a9f01f2</testCaseGuid>
+</TestCaseEntity>

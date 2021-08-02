@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>8. Verify if 'First Name' text label is displayed</description>
+   <name>TC8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9388aa4e-a932-4f9d-b9e7-eacc278de208</testCaseGuid>
+</TestCaseEntity>

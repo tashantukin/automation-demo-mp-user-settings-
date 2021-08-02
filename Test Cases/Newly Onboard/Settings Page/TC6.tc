@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Verify listed tabs from the navigation 
+6. Navigation tabs should display Profile > Address > Notifications > Change Password</description>
+   <name>TC6</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b0b23bb-ff01-418b-b111-b4aa287e5acc</testCaseGuid>
+</TestCaseEntity>

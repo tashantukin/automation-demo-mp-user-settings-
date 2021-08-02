@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>13.Verify if 'Last Name' text field is displayed</description>
+   <name>TC13</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b668b954-95ae-486a-b3b4-e280066e2c07</testCaseGuid>
+</TestCaseEntity>

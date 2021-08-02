@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5. Verify Page title header 
+5. Header text should display 'User Settings'</description>
+   <name>TC5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dce826b8-9af9-4abe-90e2-b0500eac0d7c</testCaseGuid>
+</TestCaseEntity>
