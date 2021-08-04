@@ -6,6 +6,10 @@
    <elementGuidId>20d24292-ed2b-4ffe-b15f-212ff0e6e5b3</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'username' and (text() = 'Juan' or . = 'Juan')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='videoBannerBG']/div/div/div[2]/div/ul/li[6]/a/span</value>
       </entry>
@@ -14,17 +18,17 @@
          <value>span.username</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>

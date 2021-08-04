@@ -16,17 +16,11 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.callTestCase(findTestCase('Utilities/Merchant Login (Pending request)'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.delay(3)
 
-WebUI.verifyElementText(findTestObject('Merchant - Pending request/span_dev_merchant'), 'dev_merchant')
+WebUI.mouseOver(findTestObject('Buyer with Company Linked/company_header'))
 
-WebUI.verifyElementPresent(findTestObject('Merchant - Pending request/company-request'), 0)
+WebUI.click(findTestObject('Buyer with Company Linked/a_Update My Company Page'))
 
-WebUI.verifyElementPresent(findTestObject('Merchant - Pending request/i_Change Password_icon icon-clock-blue'), 0)
-
-WebUI.mouseOver(findTestObject('Merchant - Pending request/span_dev_merchant'))
-
-WebUI.click(findTestObject('Merchant - Pending request/a_Settings'))
+WebUI.verifyElementText(findTestObject('Company Settings 1/a_Company Settings'), 'Company Settings')
 

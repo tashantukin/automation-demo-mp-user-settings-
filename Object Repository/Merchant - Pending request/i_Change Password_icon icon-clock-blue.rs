@@ -6,12 +6,12 @@
    <elementGuidId>7edf377c-091a-45f2-9359-ffa142034046</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='videoBannerBG']/div/div/div[2]/div/ul/li[7]/div/i</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>i.icon.icon-clock-blue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div[1]/div/div[2]/div/ul/li[6]/div/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

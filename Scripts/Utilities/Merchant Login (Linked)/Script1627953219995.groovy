@@ -16,17 +16,19 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.callTestCase(findTestCase('Utilities/Merchant Login (Pending request)'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
 
-WebUI.delay(3)
+WebUI.navigateToUrl(GlobalVariable.user_url)
 
-WebUI.verifyElementText(findTestObject('Merchant - Pending request/span_dev_merchant'), 'dev_merchant')
+WebUI.maximizeWindow()
 
-WebUI.verifyElementPresent(findTestObject('Merchant - Pending request/company-request'), 0)
+WebUI.click(findTestObject('User Login/a_REGISTER  SIGN IN'))
 
-WebUI.verifyElementPresent(findTestObject('Merchant - Pending request/i_Change Password_icon icon-clock-blue'), 0)
+WebUI.click(findTestObject('User Login/a_Accept Cookies'))
 
-WebUI.mouseOver(findTestObject('Merchant - Pending request/span_dev_merchant'))
+WebUI.setText(findTestObject('User Login/input_Your emailusername_username'), GlobalVariable.merchant_linked_username)
 
-WebUI.click(findTestObject('Merchant - Pending request/a_Settings'))
+WebUI.setText(findTestObject('User Login/input_Your password_password'), GlobalVariable.merchant_linked_pw)
+
+WebUI.click(findTestObject('User Login/input_Forgot password_login-submit'))
 

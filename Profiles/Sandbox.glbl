@@ -104,4 +104,14 @@
       <initValue>'user7089'</initValue>
       <name>merchant_pending_req_username</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'gca_demobuyer1'</initValue>
+      <name>merchant_linked_username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'123456'</initValue>
+      <name>merchant_linked_pw</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

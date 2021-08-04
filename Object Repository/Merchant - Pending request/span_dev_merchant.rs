@@ -6,12 +6,13 @@
    <elementGuidId>2f228a39-0a54-490c-b3fc-c0af77f2f711</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='videoBannerBG']/div/div/div[2]/div/ul/li[6]/a/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.username</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div[1]/div/div[2]/div/ul/li[5]
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
